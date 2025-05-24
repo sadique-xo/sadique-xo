@@ -9,7 +9,6 @@
 - ⚙️ Focus: Product strategy, AI use-cases, UX clarity, and technical execution
 - 🌿 Exploring: Spirituality, creative expression, and deep systems thinking
 - 💬 Ask me about: Product, AI, startups, self-mastery, or philosophy
-- 🌍 Based in: Patna → Ranchi → Kalimpong (for 90-day healing & creation sprint)
 
 ---
 
