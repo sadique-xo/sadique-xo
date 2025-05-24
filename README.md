@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadique Hussain</h1>
 <h3 align="center">Product thinker • AI builder • Conscious Creator</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/195448465?v=4" width="120" style="border-radius: 50%" alt="Sadique Hussain" />
-</p>
 
 ---
 
