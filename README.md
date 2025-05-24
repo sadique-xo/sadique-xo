@@ -36,7 +36,7 @@
 ### 📫 Let’s Connect
 
 [![Website](https://img.shields.io/badge/Website-sadique.co-000?style=flat&logo=vercel&logoColor=white)](https://sadique.co)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadiquexo-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiquexo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadiqueh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiqueh/)  
 [![X](https://img.shields.io/badge/X-SadiqueXo-black?logo=x&logoColor=white)](https://x.com/SadiqueXo)  
 [![Instagram](https://img.shields.io/badge/Instagram-heyysadique-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/heyysadique/)  
 [![Dribbble](https://img.shields.io/badge/Dribbble-designbysadique-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/designbysadique)  
@@ -46,14 +46,6 @@
 [![Blog](https://img.shields.io/badge/Beehiiv-Personal-grey?logo=rss&logoColor=white)](https://tale.beehiiv.com/)  
 [![Substack](https://img.shields.io/badge/Substack-Productivity%20Supernova-orange?logo=substack&logoColor=white)](https://designbysadique.substack.com/)  
 [![Cal.com](https://img.shields.io/badge/Book%20a%20chat%20→-sadique-0A0A0A?logo=cal.com&logoColor=white)](https://cal.com/sadique/quick-chat-with-sadique)
-
----
-
-### 📊 GitHub Stats
-
-<!-- You can remove this section if you want to keep it minimal or stats feel outdated -->
-![Sadique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadique-xo&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadique-xo&layout=compact&theme=radical)
 
 ---
 
