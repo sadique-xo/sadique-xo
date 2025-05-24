@@ -51,4 +51,4 @@
 
 ### 🧘 Quote I Live By
 
-> “Energy flows where attention goes. I am the author of my reality.”
+> “Everything is connected to everything else.”
