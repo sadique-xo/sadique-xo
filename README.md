@@ -6,11 +6,14 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: **[Mentoria Connect](https://connect.mentoria.com)** – an AI-powered mentorship platform  
+- 🤖 Currently building: **[Arya – AI Job Agent](https://agent.mentoria.com)** – Automates job search, applications, and follow-ups  
+- 🌙 Creating: **[Quietroom](https://room.sadique.co)** – A digital sanctuary to slow down, feel deeply, and document your inner world  
 - ⚙️ Focused on product clarity, technical execution, and AI use-cases that solve real problems  
 - 🌿 Exploring spiritual depth, creative storytelling, and systems thinking  
 - ✍️ Writing [personal reflections](https://tale.beehiiv.com/) and [professional essays](https://designbysadique.substack.com/)  
 - 💬 Reach out for: product strategy, startup thinking, AI implementation, or just deep conversations
+
+
 
 ---
 
