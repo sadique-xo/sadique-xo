@@ -66,10 +66,10 @@ Sole engineer on 1.0, now leading the 2.0 rebuild with a team of 4. Arya finds r
 
 ### `~/stack`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,supabase,redis,vercel,figma&theme=light#gh-light-mode-only" alt="Stack"/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,supabase,redis,vercel,figma&theme=dark#gh-dark-mode-only" alt="Stack"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,supabase,redis,vercel,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,supabase,redis,vercel,figma&theme=light" alt="Python, FastAPI, TypeScript, Next.js, React, Tailwind, PostgreSQL, Supabase, Redis, Vercel, Figma"/>
+</picture>
 
 <details>
 <summary><sub>full list</sub></summary>
